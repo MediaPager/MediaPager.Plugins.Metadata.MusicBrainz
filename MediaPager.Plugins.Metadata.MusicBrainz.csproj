@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MediaPager.Plugins.Metadata.MusicBrainz</RootNamespace>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <Description>Official keyless MusicBrainz recording metadata provider.</Description>
+    <PackageId>MediaPager.Plugins.Metadata.MusicBrainz</PackageId>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../MediaPager.App.PluginContracts/MediaPager.App.PluginContracts.csproj" />
+  </ItemGroup>
+
+</Project>

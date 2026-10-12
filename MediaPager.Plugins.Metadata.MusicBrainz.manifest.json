@@ -1,0 +1,9 @@
+{
+  "id": "mediapager.metadata.musicbrainz",
+  "name": "MusicBrainz",
+  "description": "Keyless recording and release metadata lookup for music catalogs.",
+  "author": "MediaPager",
+  "types": "metadata",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0"
+}
